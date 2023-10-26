@@ -15,17 +15,17 @@ This is a simple Node.js command-line program that allows you to manage student 
 4. Run the following command to start the Student Management System:
 
 ```bash
-node your_script_name.js
+node student.js
 ```
 ## Features
 ### Main Menu
 The program presents a main menu with the following options:
 
-* Enroll: Enroll a new student.
-* View Balance: Check the outstanding balance of a student.
-* Fee Payment: Make a fee payment.
-* Status: Display the status of all enrolled students.
-* Return to Menu: Return to the main menu (use this option to navigate between actions).
+* <b>Enroll</b>: Enroll a new student.
+* <b>View Balance</b>: Check the outstanding balance of a student.
+* <b>Fee Payment</b>: Make a fee payment.
+* <b>Status</b>: Display the status of all enrolled students.
+* <b>Return to Menu</b>: Return to the main menu (use this option to navigate between actions).
 
 ### Enroll
 * Enroll a student by providing the following details:
@@ -33,7 +33,7 @@ The program presents a main menu with the following options:
 * Name
 * Age
 * Course selection (choose from available options)
-* 
+  
 ### View Balance
 * View the outstanding balance of a student by providing their CNIC.
   
